@@ -1,6 +1,6 @@
 # JS camelCase Converter
 
-This project provides a simple JavaScript tool to convert text strings into camelCase format, which is commonly used in programming for naming variables and functions.
+This project provides a simple JavaScript tool to convert text strings into camelCase format, which is commonly used in programming for naming variables and functions...
 
 ## Features
 
